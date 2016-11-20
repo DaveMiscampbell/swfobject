@@ -1,0 +1,19 @@
+{
+  "name": "swfobject",
+  "version": "1.0.0",
+  "description": "= --- IMPORTANT UPDATE ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveMiscampbell/swfobject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveMiscampbell/swfobject/issues"
+  },
+  "homepage": "https://github.com/DaveMiscampbell/swfobject#readme"
+}
